@@ -12,5 +12,6 @@
 9. Garanta que seu email possui verificação em duas etapas;
 10. Não use sua senha pessoal, crie uma senha exclusiva de aplicativo;
 11. Após adicionar tudo isso, pode usar no terminal: node index.js
+12. Caso queira testar apenas o scraping, use: node scraper/app.js
 
 Você receberá um email mostrando os 11 bots mais divertidos do Discord segundo o site: https://sinch.com/blog/discord-bots/ , listanto o nome e a descrição de cada bot. Espero que tenha gostado.
